@@ -1,5 +1,6 @@
+from collections import Counter
 def login_attempts():
-    from collections import Counter
+    
     failed_attempts = 0
     successful_logins = 0
     failed_user = []
@@ -29,7 +30,7 @@ def login_attempts():
         print(f"{user}: {attempts}")
 
 def ip_addresses():
-    from collections import Counter
+    
     failed_ips = []
     successful_ips = []
     failed_attempts = 0
