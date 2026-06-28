@@ -1,0 +1,15 @@
+Jun 28 08:00:01 server sshd[1023]: Accepted password for ryan from 192.168.1.25 port 54213 ssh2
+Jun 28 08:01:14 server sshd[1027]: Failed password for admin from 203.0.113.15 port 49821 ssh2
+Jun 28 08:01:33 server sshd[1028]: Failed password for admin from 203.0.113.15 port 49822 ssh2
+Jun 28 08:02:05 server sshd[1030]: Accepted password for alice from 192.168.1.50 port 54220 ssh2
+Jun 28 08:03:10 server sshd[1034]: Failed password for root from 198.51.100.42 port 61022 ssh2
+Jun 28 08:04:55 server sshd[1038]: Failed password for guest from 172.16.10.8 port 42111 ssh2
+Jun 28 08:05:12 server sshd[1041]: Accepted password for bob from 10.0.0.5 port 39123 ssh2
+Jun 28 08:05:44 server sshd[1045]: Failed password for admin from 203.0.113.15 port 49825 ssh2
+Jun 28 08:06:02 server sshd[1047]: Accepted password for root from 192.168.1.100 port 50000 ssh2
+Jun 28 08:06:40 server sshd[1050]: Failed password for guest from 172.16.10.8 port 42115 ssh2
+Jun 28 08:07:03 server sshd[1052]: Failed password for test from 198.51.100.42 port 61030 ssh2
+Jun 28 08:08:16 server sshd[1056]: Accepted password for charlie from 192.168.1.75 port 53002 ssh2
+Jun 28 08:09:20 server sshd[1060]: Failed password for root from 198.51.100.42 port 61031 ssh2
+Jun 28 08:10:55 server sshd[1064]: Failed password for admin from 203.0.113.15 port 49830 ssh2
+Jun 28 08:11:43 server sshd[1068]: Accepted password for dave from 10.0.0.20 port 46010 ssh2
